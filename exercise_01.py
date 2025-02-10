@@ -1,4 +1,4 @@
-# BOLIVAR ALEX KYLE
+# JamesAlbertBaldos
 # ITELEC2
 # Laboratory #03 – Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
